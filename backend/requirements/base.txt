@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-api-python-client
+gspread
+openai
+python-dotenv
+psycopg2-binary # PostgreSQL adapter
+supabase        # For Supabase auth/db
+docker          # For sandbox execution

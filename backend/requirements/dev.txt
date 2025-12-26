@@ -1,0 +1,9 @@
+-r base.txt  # Inherits all production deps
+pytest
+pytest-asyncio
+httpx  # For API tests
+black  # Code formatting
+mypy  # Type checking
+sqlalchemy  # If using ORM
+alembic  # For DB migrations
+jupyterlab  # Optional for exploration
